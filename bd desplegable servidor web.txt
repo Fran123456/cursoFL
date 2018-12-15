@@ -1,0 +1,3 @@
+bd name:    sparuipu_cursoFl2018
+user:      sparuipu_Frank2018
+pass: paginaazul
